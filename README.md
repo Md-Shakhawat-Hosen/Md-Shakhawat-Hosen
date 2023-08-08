@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shakhawat-hosen-565650263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakhawat-hosen-565650263/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tee_fix_206" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tee_fix_206" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shakhawat206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shakhawat206" height="30" width="40" /></a>
-<a href="https://leetcode.com/shakhawatshuvo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shakhawatshuvo/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shakhawat_hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shakhawat_hosen" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shakhawat-hosen-565650263/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakhawat-hosen-565650263/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tee_fix_206" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tee_fix_206" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/shakhawat206" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shakhawat206" height="30" width="40" /></a>
+<a href="https://leetcode.com/shakhawatshuvo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shakhawatshuvo/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shakhawat_hosen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shakhawat_hosen" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
