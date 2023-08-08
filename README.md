@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Shakhawat Hosen</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shakhawat-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="md-shakhawat-hosen" /> </p>
 
@@ -30,3 +31,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shakhawat-hosen&show_icons=true&locale=en" alt="md-shakhawat-hosen" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shakhawat-hosen&" alt="md-shakhawat-hosen" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+### 📈 My GitHub Contributions
+![Snake animation](https://github.com/jaiswaladi246/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
