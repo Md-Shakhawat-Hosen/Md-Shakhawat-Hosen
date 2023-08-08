@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md.Shakhawat Hosen</h1>
+<h1 align="center">Hey Everyone 👋, I'm Shakhawat Hosen</h1>
 <div align="center"> <img src="./banner/Shakhwat-Banner.png"> </div>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shakhawat-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="md-shakhawat-hosen" /> </p>
 
-- 🌱 I’m currently learning **React**
+<!-- - 🌱 I’m currently learning **React** -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/md-shakhawat-hosen](https://github.com/md-shakhawat-hosen)
 
