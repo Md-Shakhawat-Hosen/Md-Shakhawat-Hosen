@@ -1,5 +1,5 @@
-<h1 align="center">Hey Everyone 👋, I'm Shakhawat Hosen</h1>
 <div align="center"> <img src="./banner/Shakhwat-Banner.png"> </div>
+<h1 align="center">Hey Everyone 👋, I'm Shakhawat Hosen</h1>
 <h2 align="center">A passionate frontend developer from Bangladesh</h2>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
