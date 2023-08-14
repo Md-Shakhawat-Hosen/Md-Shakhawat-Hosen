@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/md-shakhawat-hosen](https://github.com/md-shakhawat-hosen)
 
-- 💬 Ask me about **javaScript,React**
+- 💬 Ask me about **JavaScript,React**
 
 - 📫 How to reach me **shakhawat.hosen.nsu@gmail.com**
 
