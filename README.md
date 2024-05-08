@@ -7,9 +7,9 @@
 
 <!-- - 🌱 I’m currently learning **React** -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/md-shakhawat-hosen](https://github.com/md-shakhawat-hosen)
+- 👨‍💻 All of my projects are available at [https://shakhawat-9ea7f.web.app/](https://shakhawat-9ea7f.web.app/)
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **JavaScript,React,nodejs,expressjs,python**
 
 - 📫 How to reach me **shakhawat.hosen.nsu@gmail.com**
 
