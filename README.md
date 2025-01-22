@@ -21,17 +21,11 @@ Our mission is to empower businesses through technology by offering end-to-end d
 
 ## 🌟 Key Projects
 
-1. **Key Typing Game**  
-   A fun and interactive typing game with dynamic features, real-time key detection, scoring, and cross-platform compatibility.  
-   [Source Code](https://github.com/Md-Shakhawat-Hosen/alpha-clash)
-
-2. **NewsPortal**  
-   A React-based news portal with admin and user functionalities, enabling content management and approval workflows.  
-   [Live Demo](https://newspaper-a-12-client.web.app/) | [Source Code](https://github.com/Md-Shakhawat-Hosen/News-portal-client)
-
-3. **Multiple Disease Prediction**  
-   Machine learning and deep learning-powered tool for predicting multiple diseases, including diabetes and heart disease.  
-   [Source Code](https://github.com/Md-Shakhawat-Hosen/MultipleDiseasePrediction)
+| **Project Name**            | **Technologies**                                      | **Description**                                                                                       | **Links**                                                                                                                   |
+|------------------------------|------------------------------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| **Key Typing Game**          | HTML, Tailwind CSS, JavaScript                       | A typing game with dynamic sound playback, real-time key detection, scoring, and cross-platform compatibility. | [Source Code](https://github.com/Md-Shakhawat-Hosen/alpha-clash)                                                            |
+| **NewsPortal**               | React, MongoDB, Node.js, Express.js, Firebase        | A news portal with admin and user functionality for content management, approval workflows, and authentication. | [Live Demo](https://newspaper-a-12-client.web.app/) \| [Source Code](https://github.com/Md-Shakhawat-Hosen/News-portal-client) |
+| **Multiple Disease Prediction** | Python, TensorFlow, Scikit-Learn, Machine Learning | A machine learning-based tool for predicting diseases like heart disease, diabetes, and more.            | [Source Code](https://github.com/Md-Shakhawat-Hosen/MultipleDiseasePrediction)                                              |
 
 ## 🎓 Founder
 
@@ -45,5 +39,7 @@ A passionate full-stack developer with a Bachelor's degree in Computer Science a
 
 Feel free to reach out to us for collaborations or inquiries.  
 **Email**: md.shakhawat.hosen206@gmail.com  
- 
+**Phone**: +8801301884329  
+
 We look forward to working with you on your next project!
+
