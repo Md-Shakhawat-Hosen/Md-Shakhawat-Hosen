@@ -1,38 +1,49 @@
-<div align="center"> <img src="./banner/giphy.gif"> </div>
-<h1 align="center">Hey Everyone 👋, I'm Shakhawat Hosen</h1>
-<h2 align="center">A passionate frontend developer from Bangladesh</h2>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+# Tech Startup
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-shakhawat-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="md-shakhawat-hosen" /> </p>
+Welcome to our Tech Startup! We specialize in providing cutting-edge web and app development services to help businesses and individuals bring their ideas to life. Our team of experienced developers is committed to delivering innovative solutions tailored to meet our clients' needs.
 
-<!-- - 🌱 I’m currently learning **React** -->
+## 📋 Overview
 
-- 👨‍💻 All of my projects are available at [https://github.com/md-shakhawat-hosen](https://github.com/md-shakhawat-hosen)
+Our mission is to empower businesses through technology by offering end-to-end development services. Whether you're looking to create a sleek website, develop a robust mobile application, or build full-stack solutions, we've got you covered.
 
-- 💬 Ask me about **JavaScript,React**
+## 💼 Services
 
-- 📫 How to reach me **shakhawat.hosen.nsu@gmail.com**
+- **Web Development**: Custom, responsive, and user-friendly websites using modern frameworks like React and Tailwind CSS.
+- **App Development**: Cross-platform and native app solutions leveraging technologies such as Node.js and Express.js.
+- **Full-Stack Solutions**: Seamless integration of front-end and back-end technologies for comprehensive product development.
+- **Custom Solutions**: Tailored software to meet unique business needs.
 
-- ⚡ Fun fact **Nothing**
+## 🛠️ Technologies We Use
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/shakhawat-hosen-565650263/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shakhawat-hosen-565650263/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tee_fix_206" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/tee_fix_206" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/shakhawat206" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/shakhawat206" height="30" width="40" /></a>
-<a href="https://leetcode.com/shakhawatshuvo/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/shakhawatshuvo/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shakhawat_hosen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/shakhawat_hosen" height="30" width="40" /></a>
-</p>
+- **Frontend**: React, JavaScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB
+- **Other Tools**: Firebase, Postman, Figma, Git
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🌟 Key Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-shakhawat-hosen&show_icons=true&locale=en&layout=compact" alt="md-shakhawat-hosen" /></p>
+1. **Key Typing Game**  
+   A fun and interactive typing game with dynamic features, real-time key detection, scoring, and cross-platform compatibility.  
+   [Source Code](https://github.com/Md-Shakhawat-Hosen/alpha-clash)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-shakhawat-hosen&show_icons=true&locale=en" alt="md-shakhawat-hosen" /></p>
+2. **NewsPortal**  
+   A React-based news portal with admin and user functionalities, enabling content management and approval workflows.  
+   [Live Demo](https://newspaper-a-12-client.web.app/) | [Source Code](https://github.com/Md-Shakhawat-Hosen/News-portal-client)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shakhawat-hosen&" alt="md-shakhawat-hosen" /></p>
+3. **Multiple Disease Prediction**  
+   Machine learning and deep learning-powered tool for predicting multiple diseases, including diabetes and heart disease.  
+   [Source Code](https://github.com/Md-Shakhawat-Hosen/MultipleDiseasePrediction)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=md-shakhawat-hosen&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## 🎓 Founder
 
+**Md. Shakhawat Hosen**  
+A passionate full-stack developer with a Bachelor's degree in Computer Science and Engineering from North South University. Experienced in JavaScript, React, Node.js, and Express.js, with a strong background in problem-solving and machine learning.
+
+- [LinkedIn](https://www.linkedin.com/in/shakhawat-hosen-565650263/)
+- [GitHub](https://github.com/Md-Shakhawat-Hosen)
+
+## 📩 Contact Us
+
+Feel free to reach out to us for collaborations or inquiries.  
+**Email**: md.shakhawat.hosen206@gmail.com  
+ 
+We look forward to working with you on your next project!
