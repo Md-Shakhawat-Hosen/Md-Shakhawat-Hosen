@@ -11,8 +11,7 @@ I specialize in full-stack development, web design, and app development. My goal
 
 #### 💼 Services  
 
-- **Web Development**: Crafting custom, responsive, and dynamic websites using React and Tailwind CSS.  
-- **App Development**: Developing cross-platform and native mobile applications using Node.js and Express.js.  
+- **Web Development**: Crafting custom, responsive, and dynamic websites using React,nodejs,expressjs,mongodb, and Tailwind CSS.   
 - **Machine Learning**: Building intelligent systems for predictive analytics and data-driven decision-making.  
 
 #### Things I code with
